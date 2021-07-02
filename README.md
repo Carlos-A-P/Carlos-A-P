@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Carlos-A-P
+- 👀 I’m always interested in learning new skills. I have many hobbies but my favorite has to be coding!
+- 🌱 I’m currently learning HTML CSS and JavaScript
+- 💞️ I’m looking to collaborate on some fun projects to exhilerate my coding career!
+- 📫 How to reach me Twitter: @WDCarlosP, Email: perezca4791@gmail.com
