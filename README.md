@@ -1,6 +1,5 @@
-### Hi, I’m Carlos 👋
+## Hi, I’m Carlos 👋
 
-##About Me
 I became interested in web development during the pandemic. I am currently a student at California State University Polytechnic Pamona, majoring in Civil engineering. I love to learn and solve problems, and what I enjoy most is tackling problems with others. I enjoy the rush and, most importantly, the feeling of finding a solution to a complex problem. However, when I discovered Front-end web development, I felt like it was everything I was looking for in a job. I'm a visual learner, and I find it easier to see what I work on and get instant feedback. There's so much to learn in tech, and I feel like the possibilities are endless! I quickly began my web development journey and found myself never wanting to go back. My end goal is to become a full-stack web developer.
 
 
@@ -13,7 +12,7 @@ I became interested in web development during the pandemic. I am currently a stu
 - 🙂 Feel free to check out my work over at my [portfolio](https://carlospwd.netlify.app/)!
 
 
-### 🛠 Tools and technologies
+## 🛠 Tools and technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -28,7 +27,7 @@ I became interested in web development during the pandemic. I am currently a stu
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### Currently learning
+## Currently learning
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
