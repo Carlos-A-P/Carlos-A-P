@@ -11,6 +11,9 @@ I became interested in web development during the pandemic. I am currently a stu
 - 📫 How to reach me Twitter: [@WDCarlosP](https://twitter.com/WDCarlosP), Email: perezca4791@gmail.com
 - 🙂 Feel free to check out my work over at my [portfolio](https://carlospwd.netlify.app/)!
 
+### Are you looking for a Frontend Developer?
+
+I'm always open to learning opportunities and creating apps with great designs accessible to all web users. [Here is my resume](https://drive.google.com/file/d/1gij69h7c26jSIXtztm3xyqUusflc-rbJ/view?usp=sharing)
 
 ## 🛠 Tools and technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
