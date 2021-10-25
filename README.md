@@ -6,14 +6,15 @@ Hello! I'm a web developer with a passion for front-end development and design. 
 ## In short
 
 - 👀 I’m always interested in learning new skills. I have many hobbies but my favorite has to be coding!
-- 🌱 I'm a big fan of Frontend Mentor. Love both working on their challenges and giving feedback to others.
+- 🌱 I'm a big fan of Frontend Mentor. Love both working on their challenges and giving feedback to others. You can find at Frontend Mentor: [@Carlos-A-P](https://www.frontendmentor.io/profile/Carlos-A-P)
 - ⚡ I’m looking forward to collaborate on some fun projects to exhilerate my coding career!
-- 📫 How to reach me Twitter: [@WDCarlosP](https://twitter.com/WDCarlosP), Email: perezca4791@gmail.com
+- 📫 How to reach me:
+      LinkedIn: [Carlos Perez](https://www.linkedin.com/in/cpwd/), Twitter: [@WDCarlosP](https://twitter.com/WDCarlosP), Email: perezca4791@gmail.com
 - 🙂 Feel free to check out my work over at my [portfolio](https://carlospwd.netlify.app/)!
 
 ### Are you looking for a Frontend Developer?
 
-I'm always open to learning opportunities and creating apps with great designs accessible to all web users. [Here is my resume](https://drive.google.com/file/d/1gij69h7c26jSIXtztm3xyqUusflc-rbJ/view?usp=sharing)
+I'm always open to learning opportunities and creating apps with great designs accessible to all web users. [Here is my resume](https://drive.google.com/file/d/1Z2sXme2Rn11jG0exMGv6IKoQ_m1XtHMC/view)
 
 ## 🛠 Tools and technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
