@@ -6,7 +6,8 @@ Hello! I'm a web developer with a passion for front-end development and design. 
 ## In short
 
 - 👀 I’m always interested in learning new skills. I have many hobbies but my favorite has to be coding!
-- 🌱 I'm a big fan of Frontend Mentor. Love both working on their challenges and giving feedback to others. You can find at Frontend Mentor: [@Carlos-A-P](https://www.frontendmentor.io/profile/Carlos-A-P)
+- 🌱 I'm a big fan of Frontend Mentor. Love both working on their challenges and giving feedback to others. 
+     You can find at Frontend Mentor: [@Carlos-A-P](https://www.frontendmentor.io/profile/Carlos-A-P)
 - ⚡ I’m looking forward to collaborate on some fun projects to exhilerate my coding career!
 - 📫 How to reach me:
       LinkedIn: [Carlos Perez](https://www.linkedin.com/in/cpwd/), Twitter: [@WDCarlosP](https://twitter.com/WDCarlosP), Email: perezca4791@gmail.com
