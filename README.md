@@ -1,6 +1,6 @@
 ## Hi, I’m Carlos 👋
 
-I am currently a student at California State University Polytechnic Pamona, majoring in Civil engineering. I love to learn and solve problems, and what I enjoy most is tackling problems with others. I enjoy the rush and, most importantly, the feeling of finding a solution to a complex problem. However, when I discovered Front-end web development, I felt like it was everything I was looking for in a job. I'm a visual learner, and I find it easier to see what I work on and get instant feedback. There's so much to learn in tech, and I feel like the possibilities are endless! I quickly began my web development journey and found myself never wanting to go back. My end goal is to become a full-stack web developer.
+Hello! I'm a web developer with a passion for front-end development and design. I aspire toward a career that will allow me to channel my creativity through creating software and engaging experiences.
 
 
 ## In short
