@@ -15,7 +15,7 @@ Hello! I'm a web developer with a passion for front-end development and design. 
 
 ### Are you looking for a Frontend Developer?
 
-I'm always open to learning opportunities and creating apps with great designs accessible to all web users. [Here is my resume](https://drive.google.com/file/d/1i7XXPBjiPHzb5JHn2joOmYfvkLRjZV9H/view?usp=sharing)
+I'm always open to learning opportunities and creating apps with great designs accessible to all web users. [Here is my resume](https://drive.google.com/file/d/1Z2sXme2Rn11jG0exMGv6IKoQ_m1XtHMC/view?usp=sharing)
 
 ## 🛠 Tools and technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
