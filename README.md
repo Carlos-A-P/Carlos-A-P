@@ -13,10 +13,6 @@ Hello! I'm a web developer with a passion for front-end development and design. 
       LinkedIn: [Carlos Perez](https://www.linkedin.com/in/cpwd/), Twitter: [@WDCarlosP](https://twitter.com/WDCarlosP), Email: perezca4791@gmail.com
 - 🙂 Feel free to check out my work over at my [portfolio](https://www.carlospwd.com/)!
 
-### Are you looking for a Frontend Developer?
-
-I'm always open to learning opportunities and creating apps with great designs accessible to all web users. [Here is my resume](https://www.carlospwd.com/pdf/Carlos_A_Perez-portfolio-Resume.pdf)
-
 ## 🛠 Tools and technologies
 Languages
 
