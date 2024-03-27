@@ -11,7 +11,7 @@ Hello! I'm a web developer with a passion for front-end development and design. 
 - ⚡ I’m looking forward to collaborate on some fun projects to exhilerate my coding career!
 - 📫 How to reach me:
       LinkedIn: [Carlos Perez](https://www.linkedin.com/in/cpwd/), Twitter: [@WDCarlosP](https://twitter.com/WDCarlosP), Email: perezca4791@gmail.com
-- 🙂 Feel free to check out my work over at my [portfolio](https://www.carlospwd.com/)!
+- 🙂 Feel free to check out my work over at my [portfolio](https://www.carlospwd.com/portfolio)!
 
 ## 🛠 Tools and technologies
 Languages
